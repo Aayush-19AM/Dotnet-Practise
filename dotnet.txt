@@ -1,0 +1,35 @@
+JRE----Java Runtime Enviornment
+	jdk (api, tools, language compilers)
+	JVM (Java Virutal Machine)
+
+VS  Code-----you can use vs code and create simple java application
+    javac  hello.java----------hello.class-----byte code
+    java  hello
+
+Intelligi----mini IDE (Integrated Developer Environment)
+	     jdk,jvm, debugger, compiler, other tools
+
+Eclipse------official Developer tool for java programming
+	     IDE
+
+
+.net core 8.0------open source .net ( windows, linux, mac Os intall)
+Visual Code-------you can create simple .net application using 
+		  commands
+//npm init
+//npm uninstall
+//npm install
+//node app.js
+//npm run test
+
+///download .net 8.0 sdk
+//install .net 8.0 sdk
+//install vs code 
+// use (CLI) Command Line Interface Command
+
+//Dotnet CLI Commands
+//dotnet new console -o  HellWorldApp
+//cd HelloWorldApp
+//dotnet build
+//dotnet run
+
